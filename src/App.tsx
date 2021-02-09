@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Hello World, this is a test for Amplify from Github from Jordan
         </p>
         <a
           className="App-link"
